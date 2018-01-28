@@ -7,3 +7,4 @@ def turn_count(board)
       break
     end
   end
+end
